@@ -211,7 +211,7 @@ Several limitations should be considered when interpreting the results:
 
 The detailed technical report is available here:
 
-**[📄 Read the Full Technical Report](Assignment-2.pdf)**
+**[📄 Read the Full Technical Report](Tamrin-2-ML.pdf)**
 
 ---
 
